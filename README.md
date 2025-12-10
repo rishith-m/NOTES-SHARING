@@ -1,11 +1,6 @@
 
 ## Installation
 
-
-```bash
-  git clone https://github.com/Yuvadi29/NewFMN
-```
-
 Get inside the server folder and run
 ```bash
 cd server
@@ -19,3 +14,4 @@ cd client
 npm install
 npm run dev
 ```
+
