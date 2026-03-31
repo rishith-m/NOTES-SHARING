@@ -13,7 +13,7 @@ export default function Login() {
     e.preventDefault();
 
     try {
-      // ✅ Send email & password to backend
+      
       const res = await axios.post(`${API}/api/auth/login`, {
         email,
         password,
